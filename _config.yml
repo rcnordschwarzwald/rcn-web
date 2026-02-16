@@ -1,0 +1,14 @@
+title: "RC Nordschwarzwald e.V."
+url: "rcnordschwarzwald.com"
+baseurl: ""
+
+markdown: kramdown
+timezone: Europe/Berlin
+
+# nav:
+#   - name: "Start"
+#     link: /
+#   - name: "Impressum"
+#     link: /impressum/
+#   - name: "Datenschutz"
+#     link: /datenschutz/
